@@ -1,6 +1,6 @@
 print("hello world!!")
-print("my name is Tim")
-print("how are you doing")
+print("my name is Tom Willkens")
+print("how are you doing -- I am doing well!")
 #1
 #2
 #3
